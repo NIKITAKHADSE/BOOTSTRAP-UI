@@ -1,0 +1,21 @@
+.navbar-brand{
+    font-weight: bold;
+    text-shadow: 2px 1px #fff;
+    font-size: 25px;
+}
+
+.nav-link{
+    font-size: 14px;
+    color: #fff;
+}
+
+
+
+
+
+@media(min-width: 768px){
+
+    .news-input {
+        width: 50%;
+    }
+}
